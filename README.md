@@ -1,3 +1,5 @@
 # Forage-KPMG-virtual-internship
-KPMG The Innovation and Digital Solutions Division
-Module 1
+website: forage
+project: KPMG The Innovation and Digital Solutions Division
+content: Module 1, Module2
+tools: Jupyter Notebook, PowerPoint, Word, Tableau
